@@ -1,4 +1,3 @@
-# Jobquesttt
 Project Title
 
 JobQuest
@@ -78,25 +77,6 @@ HARDWARE REQUIREMENTS:
 
 
 ________________________________________
-Dataset
-•	Describe the dataset in detail:
-o	Source, size, features, and labels.
-o	Include a Figma-generated data diagram or table visualization to explain its structure.
-o	Example:
-plaintext
-Copy code
-Features: Date, Sentiment, Price, Volume
-Labels: Trend (Up/Down)
-o	Embed diagrams showcasing the preprocessing steps.
-________________________________________
-System Architecture
-•	A high-level Figma architecture diagram outlining the entire workflow:
-o	Data Ingestion
-o	Preprocessing
-o	Model Training
-o	Deployment
-o	Example:
-________________________________________
 System Architecture
 
 
@@ -114,18 +94,47 @@ Model Workflow
 ________________________________________
 Implementation Details
 Modules:
+
 Admin Module: 
 
 The Admin module provides the administrator with a centralized interface to manage the job portal effectively. Admins can view the number of registered users, companies, and active job postings. They also have the authority to monitor and maintain data integrity across the system, ensuring smooth and efficient operations.
 
 User Module (Jobseeker/Student):
+
 The User module enables job seekers and students to register on the platform, create profiles, and log in to search for jobs that match their skills. The system provides skill-based job recommendations to enhance job search efficiency. Users can also apply for jobs, participate in virtual exams, view the status of their applications, and track their progress in real time
 
 Recruiter Module (Company): 
+
 The Recruiter module allows companies to register and log in to the portal. Recruiters can add job requirements, post new job openings, and create online assessments (MCQs) for applicants. They can also view candidate profiles, evaluate exam results, and make informed hiring decisions by selecting or rejecting applicants based on their performance and qualifications
 
 
 _______________________________________
+UseCase Diagram
+
+
+![image](https://github.com/user-attachments/assets/6b7c80f4-4c45-4982-9411-4abdf65867b7)
+
+
+________________________________________
+DataFlow Diagram
+
+
+![image](https://github.com/user-attachments/assets/8bb8b91b-4275-46ad-ba91-a9188b6c83ad)
+
+
+________________________________________
+Class Diagram
+
+![image](https://github.com/user-attachments/assets/1dee54e8-6d89-4a1c-82d4-4a986345ea0b)
+
+
+_______________________________________
+Sequnce Diagram
+
+![image](https://github.com/user-attachments/assets/6aa98cbd-0ea5-46c0-8e86-70a5251c18a7)
+
+
+________________________________________
 Results
 •	Summarize key results with visuals:
 o	Graphs, charts, or infographics generated from libraries or designed in Figma.
