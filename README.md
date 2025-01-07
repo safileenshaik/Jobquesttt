@@ -6,21 +6,20 @@ Table of Contents
 1.	Introduction
 2.	Features
 3.	Technologies Used
-4.	Dataset
 5.	System Architecture
 6.	Model Workflow
 7.	Implementation Details
-8.	Results
-9.	Installation
-10.	Usage
-11.	Future Enhancements
-12.	Contributing
-13.	License
+8.	UML Diagrams
+9.	Results
+10.	Installation
+11.	Usage
+12.	Future Enhancements
+13.	Contributing
+14.	License
 ________________________________________
 Introduction
 
-In today's competitive job market, both job seekers and recruiters face numerous challenges in navigating the hiring process efficiently. To address these challenges, this project presents a job portal system built using the MERN (Mongo DB, Express.js, React.js, Node.js) stack, designed to streamline the recruitment process for both job seekers and companies. The platform incorporates three key modules: Admin, Jobseeker/Student, and Recruiter/Company, each tailored to meet the specific needs of the respective users.
-The Admin module allows for the effective management of the system, including oversight of user registrations, job postings, and recruiter activities. Job seekers, using the User module, can create profiles, search for jobs based on their skills, apply for positions, and track the status of their applications. Additionally, the platform offers job recommendations and supports live and virtual exams, enabling candidates to showcase their abilities through structured assessments.
+In today's competitive job market, both job seekers and recruiters face numerous challenges in navigating the hiring process efficiently. To address these challenges, this project presents a job portal system built using the MERN (Mongo DB, Express.js, React.js, Node.js) stack, designed to streamline the recruitment process for both job seekers and companies. The platform incorporates three key modules: Admin, Jobseeker/Student, and Recruiter/Company, each tailored to meet the specific needs of the respective users.The Admin module allows for the effective management of the system, including oversight of user registrations, job postings, and recruiter activities. Job seekers, using the User module, can create profiles, search for jobs based on their skills, apply for positions, and track the status of their applications. Additionally, the platform offers job recommendations and supports live and virtual exams, enabling candidates to showcase their abilities through structured assessments.
 
 
 ________________________________________
@@ -171,7 +170,7 @@ Contributing
 •	Guidelines for contributing, including coding standards and pull request submission.
 ________________________________________
 License
-•	Specify the license under which the project is distributed, such as MIT or Apache 2.0.
+Apache 2.0.
 ________________________________________
 
 
