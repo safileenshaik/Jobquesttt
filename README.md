@@ -48,6 +48,7 @@ Features
 11.Data Security and Privacy
 
 12.Online Assessments
+
 ________________________________________
 Technologies Used
 
@@ -63,7 +64,7 @@ SOFTWARE SYSTEM CONFIGURATION:
 
 •	Database			    :  Mongodb
 
-•	Clint Side              :  React js
+•	Client Side              :  React js
 
 
 HARDWARE REQUIREMENTS:
@@ -141,6 +142,7 @@ o	Include metrics like accuracy, precision, recall, F1-Score, and ROC curves.
 •	Example:
 ________________________________________
 Installation
+
 •	Detailed steps to set up the project locally:
 1.	Clone the repository:
 bash
@@ -156,20 +158,26 @@ Copy code
 python app.py  
 ________________________________________
 Usage
-•	Instructions to run or interact with the project:
+
+o	Instructions to run or interact with the project:
 o	Provide annotated screenshots or UI wireframes from Figma for the interface.
 o	Code snippets for CLI or API usage.
+
 ________________________________________
 Future Enhancements
-•	Highlight planned upgrades:
+
+o	Highlight planned upgrades:
 o	Adding advanced ML models.
 o	Integrating real-time data feeds.
 o	Improving UI with Figma-designed prototypes.
+
 ________________________________________
 Contributing
+
 •	Guidelines for contributing, including coding standards and pull request submission.
 ________________________________________
 License
+
 Apache 2.0.
 ________________________________________
 
